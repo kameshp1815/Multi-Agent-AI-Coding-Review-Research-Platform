@@ -298,6 +298,4 @@ Invoke-RestMethod -Method Post -Uri "http://127.0.0.1:8005/api/v1/chat" `
 
 ---
 
-## License
 
-Add your license here if applicable.
